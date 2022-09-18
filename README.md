@@ -9,7 +9,7 @@
 <br />
 
 
-- 🔭 I’m currently working on **Instagram Clone**
+- 🔭 I’m currently working on **Izanagi**
 
 - 🌱 I’m currently learning **GraphQL**
 
