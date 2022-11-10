@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./2.png" />
+  ![Black Minimal Business Personal Profile Linkedin Banner (1)](https://user-images.githubusercontent.com/100592839/201135767-2f2e2cf8-d8cc-4033-996f-14de820835f2.png)
+
 </p>
 
 
