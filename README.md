@@ -1,6 +1,6 @@
-<!-- <p align="center">
-      <img src=""/>
-</p> -->
+ <p align="center">
+      <img src="./GithubHeader.png" />
+</p> 
 
 
 <h1 align="center">Hi 👋, I'm Aditya </h1>
