@@ -9,9 +9,9 @@
 <br />
 
 
-- 🔭 I’m currently working on **Izanagi**
+- 🔭 I’m currently working on **DAPPS**
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **MERN,Django**
 
